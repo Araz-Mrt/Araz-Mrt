@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Araz-Mrt
-- 👀 I’m interested in C# ASP.Net Core 5.0 
-- 🌱 I’m currently learning Asp.net Core 5.0
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Araz Morovvati
+- 👀 I’m interested in Web Development, I use C# & Asp.Net Core for creating Web Applications
 - 📫 How to reach me Email:https://morovvati.dev@outlook.com
                      Telegram: https://t.me/araz_mrt
 
