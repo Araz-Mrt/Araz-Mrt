@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Araz Morovvati
-- 👀 I’m interested in Web Development, I use C# & Asp.Net Core for creating Web Applications
-- 📫 How to reach me Email:https://morovvati.dev@outlook.com
-                     Telegram: https://t.me/araz_mrt
+As a C# developer with three years of experience, I am passionate about creating enterprise web applications using .NET Core. Over the years, I have worked on numerous projects and successfully delivered them within tight deadlines.
 
-<!---
-Araz-RIP/Araz-RIP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a quick learner and always strive to improve my skills. I keep myself up-to-date with the latest technologies and best practices in the industry. I believe in the power of teamwork and collaboration, and I am always ready to contribute my best to achieve the common goal.
+
+If you are looking for a dedicated and skilled C# developer who can deliver high-quality solutions, feel free to connect with me. I am open to new opportunities and excited to explore new challenges.
