@@ -1,4 +1,4 @@
-As a C# developer with three years of experience, I am passionate about creating enterprise web applications using .NET Core. Over the years, I have worked on numerous projects and successfully delivered them within tight deadlines.
+As a C# developer with more than four years of experience, I am passionate about creating enterprise web applications using .NET Core. Over the years, I have worked on numerous projects and successfully delivered them within tight deadlines.
 
 I am a quick learner and always strive to improve my skills. I keep myself up-to-date with the latest technologies and best practices in the industry. I believe in the power of teamwork and collaboration, and I am always ready to contribute my best to achieve the common goal.
 
